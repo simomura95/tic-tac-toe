@@ -7,6 +7,7 @@ def cls():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 
+cls()
 print('''
   _____   _                  _                            _                  
  |_   _| (_)   ___          | |_    __ _    ___          | |_    ___     ___ 
